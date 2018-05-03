@@ -1,8 +1,9 @@
 # layer.is
+http://layer.is/
+<br><br>
+Layer.is a web application generates beautiful color gradient palettes. 
 
-Layer.is generates beautiful color gradient palettes. 
-
-![sample_01](https://user-images.githubusercontent.com/1064036/39589226-798919ee-4eb2-11e8-8abf-2697c450c3f0.png)
+![sample_01](https://user-images.githubusercontent.com/1064036/39589374-ddfe67c6-4eb2-11e8-9621-0e35feeb8461.png)
 ![sample_02](https://user-images.githubusercontent.com/1064036/39589227-79a8d75c-4eb2-11e8-94d8-2fcface8c108.png)
 
 

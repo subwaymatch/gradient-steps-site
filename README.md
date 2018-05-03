@@ -1,0 +1,25 @@
+# layer.is
+
+Layer.is generates beautiful color gradient palettes. 
+
+![fireshot capture - layer is - http___layer is_18](https://user-images.githubusercontent.com/1064036/39588441-a63a6fda-4eb0-11e8-8022-b7932c92a870.png)
+![fireshot capture - layer is - http___layer is_17](https://user-images.githubusercontent.com/1064036/39588442-a653b5f8-4eb0-11e8-9fa3-7d5a0b576b5e.png)
+![fireshot capture - layer is - http___layer is_16](https://user-images.githubusercontent.com/1064036/39588443-a66d45e0-4eb0-11e8-91b4-653f92c2f046.png)
+![fireshot capture - layer is - http___layer is_15](https://user-images.githubusercontent.com/1064036/39588444-a6863bf4-4eb0-11e8-9cd4-d5322adecd01.png)
+![fireshot capture - layer is - http___layer is_14](https://user-images.githubusercontent.com/1064036/39588445-a69f49aa-4eb0-11e8-90fc-d58be30b5653.png)
+![fireshot capture - layer is - http___layer is_13](https://user-images.githubusercontent.com/1064036/39588446-a6bb712a-4eb0-11e8-8903-c04d609341bd.png)
+![fireshot capture - layer is - http___layer is_8](https://user-images.githubusercontent.com/1064036/39588447-a6d43796-4eb0-11e8-9479-5785061fdbd3.png)
+![fireshot capture - layer is - http___layer is_7](https://user-images.githubusercontent.com/1064036/39588448-a70ea368-4eb0-11e8-944c-0d4ad4a011fd.png)
+![fireshot capture - layer is - http___layer is_2](https://user-images.githubusercontent.com/1064036/39588449-a728cf68-4eb0-11e8-9a3b-d09d34c41bca.png)
+![fireshot capture - layer is - http___layer is_](https://user-images.githubusercontent.com/1064036/39588450-a741c1e4-4eb0-11e8-9652-4b67c3a6d80c.png)
+![fireshot capture - layer is - http___layer is_28](https://user-images.githubusercontent.com/1064036/39588451-a75d41d0-4eb0-11e8-81a6-e808e43e02a5.png)
+![fireshot capture - layer is - http___layer is_27](https://user-images.githubusercontent.com/1064036/39588452-a77a419a-4eb0-11e8-96d0-b8c42d3de47e.png)
+![fireshot capture - layer is - http___layer is_26](https://user-images.githubusercontent.com/1064036/39588453-a797740e-4eb0-11e8-8e39-76aa4efc8822.png)
+![fireshot capture - layer is - http___layer is_25](https://user-images.githubusercontent.com/1064036/39588454-a7b4d7ec-4eb0-11e8-976c-069fd17510d9.png)
+![fireshot capture - layer is - http___layer is_24](https://user-images.githubusercontent.com/1064036/39588457-a7cd8526-4eb0-11e8-9c16-72b26057ca94.png)
+![fireshot capture - layer is - http___layer is_23](https://user-images.githubusercontent.com/1064036/39588458-a7e64cc8-4eb0-11e8-9a1a-e422dd162665.png)
+![fireshot capture - layer is - http___layer is_22](https://user-images.githubusercontent.com/1064036/39588459-a7fdb8ae-4eb0-11e8-9566-cdfffd1d28db.png)
+![fireshot capture - layer is - http___layer is_0b](https://user-images.githubusercontent.com/1064036/39588460-a8177ba4-4eb0-11e8-94a4-e582c2837c4f.png)
+![fireshot capture - layer is - http___layer is_21](https://user-images.githubusercontent.com/1064036/39588461-a8301aec-4eb0-11e8-8d69-ffcf0edb67c2.png)
+![fireshot capture - layer is - http___layer is_20](https://user-images.githubusercontent.com/1064036/39588463-a849fd9a-4eb0-11e8-8e63-605bae5bade8.png)
+![fireshot capture - layer is - http___layer is_19](https://user-images.githubusercontent.com/1064036/39588464-a86376c6-4eb0-11e8-8814-7c70b1d261fd.png)
